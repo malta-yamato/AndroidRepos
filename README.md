@@ -1,0 +1,1 @@
+This is the ropositories regards Android Libraries.
